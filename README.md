@@ -11,7 +11,9 @@ Besides Chinese charactors level embedding, it can also support word or phrase b
 
 I used the most frequent 3000 chinese charactors as the source for 128d embedding
  
-trained a 400MB wikipedia Chinese corpus a got the following mapping graph
+trained a 400MB wikipedia Chinese corpus got the following mapping graph
+
+![DEMO](/demo/embedding128%20window4%20iteration5000001.png?raw=true)
 
 ## Tips
 
