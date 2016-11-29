@@ -21,7 +21,7 @@ trained a 400MB wikipedia Chinese corpus got the following mapping graph
 
 - Here is how I solved the problem displaying Chinese Charactors in matplotlib http://blog.sciencenet.cn/blog-43412-343002.html
 
-## Understand Word2Vec
+## Understanding Word2Vec
 
 Here are some useful links for understanding Word2Vec if you are new here
 
