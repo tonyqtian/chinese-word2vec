@@ -1,7 +1,7 @@
 # Chinese Word2Vec
-This is an iPhython notebook implementation of Chinese Charactor Word2Vec skip-gram model
+This is an iPhython notebook implementation of Chinese Charactor Word2Vec skip-gram model based on TensorFlow Udacity Word2Vec Demo https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/5_word2vec.ipynb
 
-It provides an implementation of the skip-gram architectures for computing vector representations of Chinese charactors
+I modified it to compute Chinese charactor vector representations of the skip-gram architectures
 
 Given a text corpus, it learns a vector for every word in the vocabulary using the Skip-Gram neural network architectures
 
